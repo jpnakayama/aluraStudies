@@ -1,46 +1,21 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Alura Studies
 
-## Available Scripts
+O projeto Alura Studies é a conclusão do primeiro curso da formação em React com Typescript da Alura.
 
-In the project directory, you can run:
+## 🔨 Funcionalidades do projeto
 
-### `npm start`
+O Alura Studies tem o objetivo de listar e cronometrar tarefas de estudo.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Uma vez listada a tarefa pode ser iniciada e o relógio irá entrar em contagem regressiva.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<div align="center">
+![img](https://user-images.githubusercontent.com/99735564/176952780-fbff4568-7c27-4c00-948b-87fc77983d5c.png)
+</div>
 
-### `npm test`
+## ✔️ Técnicas e tecnologias utilizadas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- `Funcionalidade 1`: Listar tarefas;
+- `Funcionalidade 2`: Iniciar a contagem regressiva da tarefa selecionada,
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Todo o projeto foi desenvolvido utilizando function components.
